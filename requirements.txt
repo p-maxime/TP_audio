@@ -1,3 +1,4 @@
+simpleaudio==1.0.4
 cycler==0.10.0            # via matplotlib
 kiwisolver==1.2.0         # via matplotlib
 matplotlib==3.2.1
@@ -9,4 +10,3 @@ pytz==2020.1              # via pandas
 scipy==1.4.1              # via seaborn
 seaborn==0.10.1
 six==1.15.0               # via cycler, python-dateutil
-simpleaudio==1.0.4
